@@ -1,6 +1,11 @@
+![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)
+![Python 3.5](https://img.shields.io/badge/python-3.6-blue.svg)
+
+
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
+### by-Vishal Vikram Singh
 
 ### Install
 
